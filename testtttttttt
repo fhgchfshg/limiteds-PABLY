@@ -1,6 +1,6 @@
 function l(a, _)
 local b = Instance.new("Weld")
-b.Part0 = a.Parent
+b.Part0 = a.Paren
 b.Part1 = _.Parent
 b.C0 = a.CFrame
 b.C1 = _.CFrame
